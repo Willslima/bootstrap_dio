@@ -1,2 +1,2 @@
 # bootstrap_dio
-página feita no curso da dio, utilizando o bootstrap
+página feita no curso da dio, utilizando o bootstrap.
